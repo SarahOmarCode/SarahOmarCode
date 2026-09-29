@@ -22,10 +22,10 @@ I work at the intersection of LLMs and production software: currently an AI engi
 
 ### 🛠️ Stack
 
-**Languages:** TypeScript · Python · SQL · JavaScript · C++
-**AI:** LLM agents · knowledge bases · structured outputs · prompt engineering
-**Web:** React · Vite · Tailwind CSS · Node.js
-**Cloud & testing:** AWS · Cloudflare Workers · Pytest
+- **Languages:** TypeScript · Python · SQL · JavaScript · C++
+- **AI:** LLM agents · knowledge bases · structured outputs · prompt engineering
+- **Web:** React · Vite · Tailwind CSS · Node.js
+- **Cloud & testing:** AWS · Cloudflare Workers · Pytest
 
 ### 🎓 Credentials
 
